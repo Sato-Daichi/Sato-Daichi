@@ -129,3 +129,11 @@
 
 - [Twitter](https://twitter.com/d__sato_)
 - [Qiita](https://qiita.com/d_sato_)
+
+## Github統計
+
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sato-Daichi&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Sato-Daichi&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sato-Daichi&theme=2077)
