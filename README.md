@@ -1,3 +1,5 @@
+# 佐藤大地
+
 ## Profile
 
 - 氏名：佐藤 大地（さとうだいち）
@@ -5,11 +7,10 @@
 - 学年：修士 1年
 - 研究室：[中山研究室](https://www.nlab.ci.i.u-tokyo.ac.jp/)
 - 興味分野：機械学習
-- Github：[Sato-Daichi](https://github.com/Sato-Daichi)
 
 ## Education
 
-|所属|start|end|
+|所属|開始|終了|
 |---|-----|---|
 |東京大学 理科一類|2020年4月|2022年3月|
 |東京大学 工学部 システム創成学科 知能社会システムコース	中村研究室|2022年4月|2024年3月|
@@ -17,60 +18,78 @@
 
 ## Skill
 
-- 機械学習，データ分析，統計学（Python）
-  - 使用ライブラリ
-    - Numpy
-    - Pandas
-    - Matplotlib
-    - Seaborn
-    - Polars
+### 機械学習
+
+機械学習全般が好きで、機械学習は概ね何でもできます！（ただし強化学習と音声処理は勉強中です）
+メインの言語はPythonで、使用歴は4年です。
+
+- 対象データ
+  - テーブルデータ
+  - 動画像データ
+    - 生成AI含む
+  - 自然言語データ
+    - LLM・RAG含む
+  - 音声データ
+  - 時系列データ
+
+- 使用ライブラリ例
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Polars
+  - EDA tool
     - ydata-profiling
     - sweetviz
-    - shap
-    - Scikit-learn
-    - LightGBM
-    - XBGoost
-    - CatBoost
-    - PyTorch
-    - Tensorflow
-    - Transformers
-    - Pycaret
-    - MLflow
-    - Wandb
-  - 対象データ
-    - テーブルデータ
-    - 動画像データ
-      - 生成AI含む
-    - 自然言語データ
-      - LLM含む
-    - 音声データ
-    - 時系列データ
-    - 異常検知
-    - レコメンデーション
-  - WebスクレイピングやAPIを用いたデータ収集も可能
-  - Rを用いた簡単な分析も可能
-  - SQL
-- Webアプリ開発
+  - shap
+  - Scikit-learn
+  - LightGBM
+  - XBGoost
+  - CatBoost
+  - PyTorch
+  - Tensorflow
+  - Keras
+  - Transformers
+  - Pycaret
+  - MLflow
+  - Wandb
+
+- WebスクレイピングやAPIを用いたデータ収集も可能
+- Rを用いた簡単な分析も可能
+- SQLも使用可能
+
+### Webアプリ開発
+
+機械学習ほど習熟はしていませんが、Webアプリ開発の経験もあります
+
+- 使用言語一覧
   - HTML
   - CSS
   - JavaScript
   - TypeScript
   - Python
   - Go
-  - 使用フレームワーク・ライブラリ
-      - React
-      - NestJS
-      - Streamlit
-      - Gradio
-      - FastAPI
-- その他
-  - Git
-  - Github
-  - Docker
-  - docker-compose
-  - devcontainer
+- 使用フレームワーク・ライブラリ
+  - React
+  - NestJS
+  - Streamlit
+  - Gradio
+  - FastAPI
+
+### その他
+
+開発で使用する以下のツールの使用経験があります
+
+- Git
+- Github
+- Docker
+- docker-compose
+- devcontainer
 
 ## Internship
+
+これまで計4社でエンジニアインターンを経験しました
+
 |企業名|期間|役職|
 |-----|---|----|
 |株式会社 IZA（現 株式会社 ScaleData）|2022年1月〜2022年12月|Web開発エンジニア|
@@ -83,9 +102,9 @@
 [Kaggle](https://www.kaggle.com/)や[Signate、](https://signate.jp/)[Nishika](https://www.nishika.com/)で機械学習コンペティションに取り組んでいます。
 
 - メダル
-    - Kaggle （銅メダル🥉1個）
-    - Signate Expert（銀メダル🥈2個、銅メダル🥉1個）
-    - Nishika Aランク（金メダル🥇 2個）
+  - Kaggle （銅メダル🥉1個）
+  - Signate Expert（銀メダル🥈2個、銅メダル🥉1個）
+  - Nishika Aランク（金メダル🥇 2個）
 
 |サイト名|コンペ名|メダル|順位|
 |-------|------|-----|----|
