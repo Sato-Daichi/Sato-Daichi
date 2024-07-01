@@ -21,6 +21,7 @@
 ### 機械学習
 
 機械学習全般が好きで、機械学習は概ね何でもできます！（ただし強化学習と音声処理は勉強中です）
+
 メインの言語はPythonで、使用歴は4年です。
 
 - 対象データ
@@ -50,6 +51,7 @@
   - Tensorflow
   - Keras
   - Transformers
+  - Datasets
   - Pycaret
   - MLflow
   - Wandb
