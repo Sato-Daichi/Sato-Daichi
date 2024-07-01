@@ -101,7 +101,7 @@
 
 ## Competition
 
-[Kaggle](https://www.kaggle.com/)や[Signate、](https://signate.jp/)[Nishika](https://www.nishika.com/)で機械学習コンペティションに取り組んでいます。
+[Kaggle](https://www.kaggle.com/)や[Signate](https://signate.jp/)、[Nishika](https://www.nishika.com/)で機械学習コンペティションに取り組んでいます。
 
 - メダル
   - Kaggle （銅メダル🥉1個）
@@ -116,6 +116,8 @@
 |Nishika|ヘイトスピーチ検出|金メダル🥇|8位/264チーム|
 |Signate|MUFG Data Science Champion Ship|銀メダル🥈|28位/147チーム|
 |Signate|SIGNATE Student Cup 2022【予測部門】|銀メダル🥈|22位/240チーム|
+
+また、松尾研コミュニティ内コンペ DSDojo#1 で2位を獲得しました。
 
 ## Circle and Community
 
