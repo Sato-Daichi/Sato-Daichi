@@ -44,14 +44,16 @@
     - sweetviz
   - shap
   - Scikit-learn
-  - LightGBM
-  - XBGoost
-  - CatBoost
-  - PyTorch
-  - Tensorflow
-  - Keras
-  - Transformers
-  - Datasets
+  - GBDT
+    - LightGBM
+    - XBGoost
+    - CatBoost
+  - Deep Learning
+    - PyTorch
+    - Tensorflow
+    - Keras
+    - Transformers
+    - Datasets
   - Pycaret
   - MLflow
   - Wandb
