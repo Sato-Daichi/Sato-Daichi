@@ -4,7 +4,7 @@
 
 - 氏名：佐藤 大地（さとうだいち）
 - 所属：[東京大学院 情報理工学系研究科 創造情報学専攻](https://www.i.u-tokyo.ac.jp/edu/course/ci/)
-- 学年：修士 1年
+- 学年：修士 2年
 - 研究室：[中山研究室](https://www.nlab.ci.i.u-tokyo.ac.jp/)
 - 興味分野：機械学習
 
